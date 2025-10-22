@@ -10,4 +10,4 @@ It was a bunch of 'no best practises' way of making commits
 with the message set to 'stuff', which is not meaningfull 
 at all.
 
-teraz test checkout bez commitnietych zmian
+Hi -> Bye
